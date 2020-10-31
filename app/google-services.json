@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "367217423835",
+    "firebase_url": "https://imagesend-e0338.firebaseio.com",
+    "project_id": "imagesend-e0338",
+    "storage_bucket": "imagesend-e0338.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367217423835:android:8d74add8333eebe64de3fe",
+        "android_client_info": {
+          "package_name": "com.example.imagesend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367217423835-517bddeld8argtt3c42kpicbf87d0cbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjxQq_24vle7n077iCAMkJ1kiUiUs3Hzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367217423835-517bddeld8argtt3c42kpicbf87d0cbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
